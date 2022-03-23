@@ -22,7 +22,8 @@
 <br>
 ## 📁 Acesso ao projeto
 
-https://github.com/IgnacioAI/App_Lanche.git
+https://github.com/IgnacioAI/App_Lanche.git<br>
+<p>Baixar a pasta inteira e instalar as dependencias. Na duvida consultar requeriments.txt. É importante a verificação de compatibilidade de dependencias, caso contrário a aplicação não irá funcionar</p>
 
 ## 🛠️ Dependencias
 
