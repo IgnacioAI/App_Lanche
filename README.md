@@ -29,6 +29,8 @@ https://github.com/IgnacioAI/App_Lanche.git
 **Flask~=1.1.1<br>
 SQLAlchemy~=1.4.32<br>
 alembic~=1.7.7**<br>
+MarkupSafe==2.0.6<br>
+itsdangerous==2.0.4<br>
 
 ## :hammer: Tecnologias Utilizadas
 
